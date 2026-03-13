@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>AR Menu Demo</title>
+</head>
+
+<body style="text-align:center;font-family:sans-serif">
+
+<h1>Interactive AR Menu Demo</h1>
+
+<br>
+
+<a href="burger.html">
+<button style="padding:15px;font-size:18px">
+View Burger in AR
+</button>
+</a>
+
+<br><br>
+
+<a href="pizza.html">
+<button style="padding:15px;font-size:18px">
+View Pizza in AR
+</button>
+</a>
+
+</body>
+</html>
